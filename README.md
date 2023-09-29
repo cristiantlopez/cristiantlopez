@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Cristian, a PhD student working on quantum physics ⚛️
 
 <!--
 **cristiantlopez/cristiantlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm mainly interested in simulating complex quantum systems...
+- 💻 ... either with classical or quantum devices!
+- 📫 You can reach me at cristiantabares.xyz
